@@ -1,5 +1,7 @@
 <h1> StoreAPI with Express and MongoDB </h1>
+
  <h2> Overview </h2>
+
 - This project is a RESTful API for an online store, built using Node.js, Express.js, and MongoDB.
 - It provides endpoints to manage products, including creating, retrieving, updating, and deleting products.
 - This app provides APIs for searching based on query with **multiple dataset**, **sorting the data in ascending, descending order**, and many more queries.
